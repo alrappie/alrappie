@@ -8,4 +8,3 @@ Right know Focusing on Computer Vision
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alrappie&show_icons=true&locale=en&layout=compact" alt="alrappie" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alrappie&show_icons=true&locale=en" alt="alrappie" /></p>
